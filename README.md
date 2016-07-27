@@ -1,6 +1,8 @@
 fzf-extras
 ==========
 
+[![Join the chat at https://gitter.im/AbstractLife/fzf-extras](https://badges.gitter.im/AbstractLife/fzf-extras.svg)](https://gitter.im/AbstractLife/fzf-extras?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Additional key bindings for fzf, primarily Bash.
 
 bash cmdline         | description
